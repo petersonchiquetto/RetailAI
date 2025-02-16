@@ -1,7 +1,3 @@
-Ah, entendi! Você quer que as bibliotecas que você mencionou apareçam no README, juntamente com a explicação da arquitetura da aplicação. Vou ajustar o conteúdo para incluir essas informações.
-
----
-
 # 🛒 **RetailAI**: Artificial Intelligence for Retail
 
 Welcome to **RetailAI**, a repository that leverages AI techniques to optimize and revolutionize the retail industry! 🤖
